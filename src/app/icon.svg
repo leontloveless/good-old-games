@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#E8F4FC"/>
+  
+  <!-- Retro controller shape -->
+  <path d="M50 80 
+           C50 60, 150 60, 150 80
+           L160 120
+           C160 140, 40 140, 40 120
+           Z" 
+        fill="#5DADE2"/>
+  
+  <!-- D-pad -->
+  <rect x="60" y="90" width="30" height="10" fill="#FFFFFF"/>
+  <rect x="70" y="80" width="10" height="30" fill="#FFFFFF"/>
+  
+  <!-- Action buttons -->
+  <circle cx="120" cy="95" r="5" fill="#FFFFFF"/>
+  <circle cx="130" cy="95" r="5" fill="#FFFFFF"/>
+  
+  <!-- Text "GOG" -->
+  <text x="100" y="160" 
+        font-family="Arial Black, sans-serif" 
+        font-size="24" 
+        fill="#3498DB" 
+        text-anchor="middle" 
+        font-weight="bold">GOG</text>
+  
+  <!-- Pixel decorations -->
+  <rect x="85" y="40" width="10" height="10" fill="#5DADE2"/>
+  <rect x="105" y="40" width="10" height="10" fill="#5DADE2"/>
+  <rect x="125" y="40" width="10" height="10" fill="#5DADE2"/>
+</svg>

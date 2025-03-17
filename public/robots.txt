@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Prevent caching of game frames
+Disallow: /games/*/frame
+
+Sitemap: https://good-old-games.com/sitemap.xml 
